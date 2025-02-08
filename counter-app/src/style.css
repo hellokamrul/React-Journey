@@ -1,0 +1,38 @@
+.container{
+    background: #000;
+    max-width: 300px;
+    color: rgb(12, 125, 223);
+    padding: 2rem;
+    margin: 2rem;
+    
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    /* border-radius: 50px; */
+    
+}
+
+.icrement{
+    margin: 20px;
+    padding: 5px 20px ;
+    background: #77ec5d;
+    border: #77ec5d;
+    border-radius: 3px;
+}
+
+.decrement{
+    margin: 20px;
+    padding: 5px 20px ;
+    background: #fa0d21;
+    border: #e20c4c;
+    border-radius: 3px;
+    
+}
+
+.reset{
+    margin: 20px;
+    padding: 5px 20px ;
+    background: #e2cc20;
+    border: #e2cc20;
+    border-radius: 3px;
+}
